@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DistanceConverter</string>
+    <string name="main_title">Conversion: </string>
+    <string name="r1_text">Miles to Kilometers</string>
+    <string name="r2_text">Kilometers to Miles</string>
+    <string name="miles_text">Miles Value:</string>
+    <string name="km_text">Kilometers Value:</string>
+    <string name="conversion_from_default">0.0</string>
+    <string name="conversion_to_default">0.0</string>
+    <string name="convert_button">CONVERT</string>
+    <string name="history_text">Conversion History</string>
+    <string name="clear_button">CLEAR</string>
+    <string name="conversionHistory">Conversion History:</string>
+</resources>
